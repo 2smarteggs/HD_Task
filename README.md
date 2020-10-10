@@ -2,6 +2,7 @@
 
 ## Introduction:
 ### The Task use AI api for image-object identifying and beautify images.
+
 ## Description:
 ### The pictures will be save to a cloud server through api and returned with a HASH value.
 ### The pictures will be detected by the AI api at the same time and returned with result and confidence.
